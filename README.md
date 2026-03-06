@@ -31,7 +31,9 @@ cd /opt/google-auth-helper
 3. Run installer in the extracted package:
 
 ```bash
-sudo bash deploy/install.sh
+chmod +x scripts/install_systemd.sh
+sudo APP_DIR=/opt/google-auth-helper SERVICE_NAME=google-auth-helper \
+  bash scripts/install_systemd.sh
 ```
 
 ## Version History
