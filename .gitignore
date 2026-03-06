@@ -1,0 +1,8 @@
+# Local runtime files
+.env
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
