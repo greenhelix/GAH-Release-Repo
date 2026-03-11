@@ -4,7 +4,6 @@ Release-only repository for Google Auth Helper installers.
 
 ## Layout
 
-`	ext
 windows/
   vX.Y.Z/
     gah-windows-vX.Y.Z-setup.exe
@@ -13,7 +12,6 @@ ubuntu/
   vX.Y.Z/
     gah-ubuntu-vX.Y.Z.deb
     INSTALL.txt
-`
 
 ## Latest
 
