@@ -1,48 +1,20 @@
-# GAH Release Repo
+﻿# GAH Release Repo
 
-GAH (Google Auth Helper) release-only repository.
+Release-only repository for Google Auth Helper installers.
 
-- Code repo (private): `https://github.com/greenhelix/GAH-Code-Repo`
-- Release repo: `https://github.com/greenhelix/GAH-Release-Repo`
+## Layout
 
-## What Is In This Repo
-
-Only versioned release artifacts are stored here.
-
-```text
-releases/
+`	ext
+windows/
   vX.Y.Z/
-    gah-ubuntu-vX.Y.Z.tar.gz
-    gah-windows-web-vX.Y.Z.zip
-    checksums.txt
-```
+    gah-windows-vX.Y.Z-setup.exe
+    INSTALL.txt
+ubuntu/
+  vX.Y.Z/
+    gah-ubuntu-vX.Y.Z.deb
+    INSTALL.txt
+`
 
-## Quick Install (Ubuntu)
+## Latest
 
-1. Download latest `gah-ubuntu-vX.Y.Z.tar.gz` from `releases/vX.Y.Z/`
-2. Extract:
-
-```bash
-sudo mkdir -p /opt/google-auth-helper
-sudo tar -xzf gah-ubuntu-vX.Y.Z.tar.gz -C /opt/google-auth-helper
-cd /opt/google-auth-helper
-```
-
-3. Run installer in the extracted package:
-
-```bash
-chmod +x scripts/install_systemd.sh
-sudo APP_DIR=/opt/google-auth-helper SERVICE_NAME=google-auth-helper \
-  bash scripts/install_systemd.sh
-```
-
-## Version History
-
-| Version | Date | Core Changes |
-|---|---|---|
-| v0.0.0 | 2026-03-06 | Release repo bootstrap (structure + README policy) |
-
-## Notes
-
-- Keep this repo simple: artifacts + checksums + short history.
-- Detailed technical docs stay in `GAH-Code-Repo`.
+- v0.1.2: Windows auto test is disabled, platform icons stay visible on focus, and desktop release artifacts are simplified.
