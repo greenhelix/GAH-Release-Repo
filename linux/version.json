@@ -1,6 +1,6 @@
 {
-  "version": "0.5.1",
-  "date": "2026-03-23",
-  "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/v0.5.1/gah-v0.5.1-linux-x64.tar.gz",
-  "release_notes": "버그수정: adb/sdkmanager PATH 인식, 설정 페이지 버전 표시 및 로그 경로 복사 추가"
+  "version": "0.5.2",
+  "date": "2026-03-24",
+  "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/v0.5.2/gah-v0.5.2-linux-x64.tar.gz",
+  "release_notes": "기능: (직접 실행) 모드 추가, adb 기기 인식 수정, 디버그 로거 강화"
 }
