@@ -1,6 +1,6 @@
 {
-  "version": "0.5.5",
+  "version": "0.5.6",
   "date": "2026-03-24",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "설정: 로그 추출 버튼 추가, 아이콘 수정, F-003 환경변수 안내 개선"
+  "release_notes": "아이콘 512x512 재생성, 다중 해상도 설치, 아이콘 캐시 강제 갱신"
 }
