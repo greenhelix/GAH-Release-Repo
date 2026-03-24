@@ -31,6 +31,12 @@ sudo dpkg -i gah-linux-amd64.deb
 
 ## 버전 이력
 
+### `v0.5.5` (2026-03-24) — Linux
+- 설정 페이지: "로그 추출" 버튼 추가 — zenity 폴더 탐색기로 원하는 위치에 로그 파일 복사
+- F-003: ANDROID_HOME 확인 방식을 `bash -l` 기준으로 수정 (데스크탑 런처 오탐 제거)
+- `.desktop` 아이콘 전체 경로 지정 (`Icon=/opt/gah/data/flutter_assets/icon.png`)
+- `StartupWMClass=com.kani.gah` 수정 (앱 아이콘 데스크탑 연동 정상화)
+
 ### `v0.5.4` (2026-03-24) — Linux
 - F-003: ANDROID_HOME 미설정 시 터미널에 설정 안내 출력
 - F-003: 2초 미만 종료 시 `.bash_profile` 확인 안내 출력

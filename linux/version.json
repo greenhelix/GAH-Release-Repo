@@ -1,6 +1,6 @@
 {
-  "version": "0.5.4",
+  "version": "0.5.5",
   "date": "2026-03-24",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "F-003 ANDROID_HOME 미설정 시 터미널에 안내 출력, .deb 설치 패키지 지원"
+  "release_notes": "설정: 로그 추출 버튼 추가, 아이콘 수정, F-003 환경변수 안내 개선"
 }
