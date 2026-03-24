@@ -1,6 +1,6 @@
 {
-  "version": "0.5.3",
+  "version": "0.5.4",
   "date": "2026-03-24",
-  "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/v0.5.3/gah-v0.5.3-linux-x64.tar.gz",
-  "release_notes": "기능: 앱 아이콘 변경(파란 계열), 터미널 입력창 항상 표시, 로그 bundle/logs/ 저장"
+  "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
+  "release_notes": "F-003 ANDROID_HOME 미설정 시 터미널에 안내 출력, .deb 설치 패키지 지원"
 }
