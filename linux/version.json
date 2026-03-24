@@ -1,6 +1,6 @@
 {
-  "version": "0.5.2",
+  "version": "0.5.3",
   "date": "2026-03-24",
-  "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/v0.5.2/gah-v0.5.2-linux-x64.tar.gz",
-  "release_notes": "기능: (직접 실행) 모드 추가, adb 기기 인식 수정, 디버그 로거 강화"
+  "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/v0.5.3/gah-v0.5.3-linux-x64.tar.gz",
+  "release_notes": "기능: 앱 아이콘 변경(파란 계열), 터미널 입력창 항상 표시, 로그 bundle/logs/ 저장"
 }
