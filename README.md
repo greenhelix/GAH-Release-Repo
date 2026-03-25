@@ -31,6 +31,10 @@ sudo dpkg -i gah-linux-amd64.deb
 
 ## 버전 이력
 
+### `v0.6.2` (2026-03-25) — Linux
+- 버전 상수 플랫폼별 분리: `core/env/app_config.dart` 단일 관리 (Linux/Windows/Web)
+- 자동 업데이트 루프 최종 수정 (v0.6.1 배포 후에도 루프 지속 → 버전 번호 재배포로 해결)
+
 ### `v0.6.1` (2026-03-25) — Linux
 - 자동 업데이트 루프 버그 수정 (버전 문자열 미반영)
 - F-004 결과 업로드: fail 케이스만 업로드 (ASSUMPTION_FAILURE 제외)

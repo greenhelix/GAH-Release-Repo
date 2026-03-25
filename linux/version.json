@@ -1,6 +1,6 @@
 {
-  "version": "0.6.1",
+  "version": "0.6.2",
   "date": "2026-03-25",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "버그 수정: 업데이트 루프, 결과 업로드 필터(fail만), 멀티 디바이스 시리얼, 스키마 정리"
+  "release_notes": "버전 상수 플랫폼별 분리, 자동 업데이트 루프 최종 수정"
 }
