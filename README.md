@@ -31,6 +31,25 @@ sudo dpkg -i gah-linux-amd64.deb
 
 ## 버전 이력
 
+### `v0.6.2` (2026-03-25) — Linux
+- 버전 상수 플랫폼별 분리: `core/env/app_config.dart` 단일 관리 (Linux/Windows/Web)
+- 자동 업데이트 루프 최종 수정 (v0.6.1 배포 후에도 루프 지속 → 버전 번호 재배포로 해결)
+
+### `v0.6.1` (2026-03-25) — Linux
+- 자동 업데이트 루프 버그 수정 (버전 문자열 미반영)
+- F-004 결과 업로드: fail 케이스만 업로드 (ASSUMPTION_FAILURE 제외)
+- F-004 데이터 업로드: 전체 케이스 업로드 (pass/fail/ASSUMPTION_FAILURE/ignored)
+- 멀티 디바이스 시리얼 처리 (`build_serial2` 등 → 별도 행)
+- `test_devices` 스키마 정리 (`build_id`, `atv_version`, `soc_model` 제거)
+- `device_spec` 테이블 추가 (soc, ddr, emmc, wifi, usb_power)
+
+### `v0.6.0` (2026-03-25) — Linux
+- F-004: XTS 테스트 결과 XML 파싱 및 Supabase DB 업로드 기능 추가
+  - 결과 업로드: fail + ASSUMPTION_FAILURE 케이스만 저장
+  - 데이터 업로드: pass 포함 전체 케이스 저장 (버전 카탈로그 역할)
+  - fail / ASSUMPTION_FAILURE 구분 처리 (기기 미지원 전제조건 실패 별도 표시)
+- 사이드바에 '결과' 메뉴 추가
+
 ### `v0.5.7` (2026-03-24) — Linux
 - 설정 페이지: \"아이콘 설정\" 버튼 추가 — 번들 아이콘을 `~/.local/share/icons/hicolor/`에 설치, `.desktop` 파일 자동 생성 (sudo 불필요)
 
