@@ -1,6 +1,6 @@
 {
-  "version": "0.6.3",
+  "version": "0.6.4",
   "date": "2026-03-25",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "F-003: tmux 기반 백그라운드 실행, 재연결, 화면 잠금, UI 로그 스로틀링"
+  "release_notes": "F-003: tmux pipe-pane 수정(XTS interactive 정상화), 터미널 복사 복원 / F-007: 대시보드 Supabase 연동"
 }
