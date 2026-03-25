@@ -31,6 +31,13 @@ sudo dpkg -i gah-linux-amd64.deb
 
 ## 버전 이력
 
+### `v0.6.0` (2026-03-25) — Linux
+- F-004: XTS 테스트 결과 XML 파싱 및 Supabase DB 업로드 기능 추가
+  - 결과 업로드: fail + ASSUMPTION_FAILURE 케이스만 저장
+  - 데이터 업로드: pass 포함 전체 케이스 저장 (버전 카탈로그 역할)
+  - fail / ASSUMPTION_FAILURE 구분 처리 (기기 미지원 전제조건 실패 별도 표시)
+- 사이드바에 '결과' 메뉴 추가
+
 ### `v0.5.7` (2026-03-24) — Linux
 - 설정 페이지: \"아이콘 설정\" 버튼 추가 — 번들 아이콘을 `~/.local/share/icons/hicolor/`에 설치, `.desktop` 파일 자동 생성 (sudo 불필요)
 
