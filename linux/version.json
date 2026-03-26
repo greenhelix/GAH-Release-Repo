@@ -1,6 +1,6 @@
 {
-  "version": "0.6.4",
-  "date": "2026-03-25",
+  "version": "0.6.5",
+  "date": "2026-03-26",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "F-003: tmux pipe-pane 수정(XTS interactive 정상화), 터미널 복사 복원 / F-007: 대시보드 Supabase 연동"
+  "release_notes": "F-003: 자동 재시도 수정(sentinel 직접 기록) / F-007: suite_plan 구분, 펌웨어 버전 X축, 모듈 실패 목록"
 }
