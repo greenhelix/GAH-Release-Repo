@@ -1,6 +1,6 @@
 {
-  "version": "0.6.5",
-  "date": "2026-03-26",
+  "version": "0.6.6",
+  "date": "2026-03-27",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "F-003: 자동 재시도 수정(sentinel 직접 기록) / F-007: suite_plan 구분, 펌웨어 버전 X축, 모듈 실패 목록"
+  "release_notes": "F-004: 결과 화면 재설계(XtsType 드롭다운/Latest 추출/폴더 선택/업로드 로그) / F-007: shortLabel 펌웨어 버전 형태로 변경"
 }
