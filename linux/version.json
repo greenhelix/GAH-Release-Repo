@@ -1,6 +1,6 @@
 {
-  "version": "0.6.6",
-  "date": "2026-03-27",
+  "version": "0.6.7",
+  "date": "2026-03-31",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "F-004: 결과 화면 재설계(XtsType 드롭다운/Latest 추출/폴더 선택/업로드 로그) / F-007: shortLabel 펌웨어 버전 형태로 변경"
+  "release_notes": "F-004: All Pass Data Upload(카탈로그 업로드) 기능 구현 / 멀티 샤드 deviceSerial 매핑 / 업로드 에러 핸들링 강화"
 }
