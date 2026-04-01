@@ -1,6 +1,6 @@
 {
-  "version": "0.6.8",
+  "version": "0.6.9",
   "date": "2026-04-01",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "F-010: 해결방안(Solution) 기능 추가 / 실패 케이스 목록 조회 및 해결방안 등록 / 웹 네비게이션 탭 추가"
+  "release_notes": "[fix] NULL abi 모듈(TVTS 등) upsert onConflict 매칭 오류 수정"
 }
