@@ -1,6 +1,6 @@
 {
-  "version": "0.6.9",
+  "version": "0.7.0",
   "date": "2026-04-01",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] NULL abi 모듈(TVTS 등) upsert onConflict 매칭 오류 수정"
+  "release_notes": "[feat] F-011 Jira Integration — XTS 결과 Jira 자동 업로드"
 }
