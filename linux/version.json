@@ -1,6 +1,6 @@
 {
-  "version": "0.7.5",
+  "version": "0.7.6",
   "date": "2026-04-06",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] F-006 테스트 결과 공유 (이메일/Redmine) + F-003 자동 retry 수정"
+  "release_notes": "[feat] 이메일 최근 수신자 저장 + Python bridge→Dart mailer 교체"
 }
