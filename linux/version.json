@@ -1,6 +1,6 @@
 {
-  "version": "0.7.3",
-  "date": "2026-04-03",
+  "version": "0.7.5",
+  "date": "2026-04-06",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] 테스트 실행 UI 개편 + retry 세션 선택 기능"
+  "release_notes": "[feat] F-006 테스트 결과 공유 (이메일/Redmine) + F-003 자동 retry 수정"
 }
