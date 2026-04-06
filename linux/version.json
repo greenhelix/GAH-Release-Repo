@@ -1,6 +1,6 @@
 {
-  "version": "0.7.7",
+  "version": "0.7.8",
   "date": "2026-04-06",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] 이메일 로그 ZIP 첨부 + 실패 케이스 스택트레이스 접기 표시"
+  "release_notes": "[fix] F-003 auto retry - RESULT DIRECTORY 직접 감시로 세션 감지 개선"
 }
