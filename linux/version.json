@@ -1,6 +1,6 @@
 {
-  "version": "0.8.0",
+  "version": "0.8.1",
   "date": "2026-04-07",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] F-003 retry 폴백 수정 + [feat] Quick command 버튼 + [feat] F-011 Jira 업무생성/상태업데이트"
+  "release_notes": "[fix] Jira /search/jql API 마이그레이션 (410 오류 수정) + 오류 로그 추가"
 }
