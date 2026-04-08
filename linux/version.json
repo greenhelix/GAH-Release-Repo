@@ -1,6 +1,6 @@
 {
-  "version": "0.8.2",
-  "date": "2026-04-07",
+  "version": "0.8.3",
+  "date": "2026-04-08",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] Jira 상태업데이트 UI 개선 (일괄 상태 선택) + FW 이슈 부분 일치 검색"
+  "release_notes": "[fix] 세션 요약 수치 정확도 개선 + 결과 미리보기 FW/Fingerprint 추가 + 공유 실패모듈 누락 수정 + 케이스 collapse"
 }
