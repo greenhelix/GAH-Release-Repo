@@ -1,6 +1,6 @@
 {
-  "version": "0.8.4",
+  "version": "0.8.5",
   "date": "2026-04-08",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] Redmine 업로드 개편: description 덮어쓰기 + 진척도/추정시간/상태 변경"
+  "release_notes": "[feat] 창 제목/다크모드 타이틀바 연동 + 이메일 양식 개선 + Redmine Markdown 적용"
 }
