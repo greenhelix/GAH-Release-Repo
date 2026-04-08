@@ -1,6 +1,6 @@
 {
-  "version": "0.8.5",
+  "version": "0.8.6",
   "date": "2026-04-08",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] 창 제목/다크모드 타이틀바 연동 + 이메일 양식 개선 + Redmine Markdown 적용"
+  "release_notes": "[feat] 이메일 반응형 레이아웃 (모바일 2x2 통계박스, max-width 유동형)"
 }
