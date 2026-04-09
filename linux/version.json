@@ -1,6 +1,6 @@
 {
-  "version": "0.8.7",
+  "version": "0.8.8",
   "date": "2026-04-09",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] F-003 Select Device + retry l r 개선 + 버튼 재배치 + 로그 색상 / F-006 이메일 Incomplete Modules + Pass Rate 수정 + 스택트레이스 파일 첨부"
+  "release_notes": "[fix] F-003 autoRetry exit 전송·잠금화면 완료표시·PTY \\r 제거 / F-006 스택트레이스 utf8 인코딩 수정"
 }
