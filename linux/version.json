@@ -1,6 +1,6 @@
 {
-  "version": "0.9.6",
+  "version": "0.9.7",
   "date": "2026-04-10",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] FW 리포트 수동 테스트 추가 + 잠금화면 FW버전/경과시간 표시"
+  "release_notes": "[fix] 업데이트 스크립트 권한 오류 로깅 추가 + FW 리포트 수동 테스트 확장"
 }
