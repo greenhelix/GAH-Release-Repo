@@ -1,6 +1,6 @@
 {
-  "version": "0.9.4",
+  "version": "0.9.5",
   "date": "2026-04-10",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] FW 버전별 통합 인증 리포트 이메일 공유 기능 추가 + F-010 모듈명 수정 + 로그 초기화"
+  "release_notes": "[fix] FW 리포트 상태 레이블 Jira 스타일로 변경 + SMTP 에러 메시지 구체화"
 }
