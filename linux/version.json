@@ -1,6 +1,6 @@
 {
-  "version": "0.9.5",
+  "version": "0.9.6",
   "date": "2026-04-10",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] FW 리포트 상태 레이블 Jira 스타일로 변경 + SMTP 에러 메시지 구체화"
+  "release_notes": "[feat] FW 리포트 수동 테스트 추가 + 잠금화면 FW버전/경과시간 표시"
 }
