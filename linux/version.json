@@ -1,6 +1,6 @@
 {
-  "version": "0.9.7",
-  "date": "2026-04-10",
+  "version": "0.9.8",
+  "date": "2026-04-11",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] 업데이트 스크립트 권한 오류 로깅 추가 + FW 리포트 수동 테스트 확장"
+  "release_notes": "[feat] FW 리포트 인증 유형(IR/LR/MR/Self MR) 선택 + 테스트 기간 표시"
 }
