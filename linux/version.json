@@ -1,6 +1,6 @@
 {
-  "version": "0.9.8",
+  "version": "0.9.9",
   "date": "2026-04-11",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] FW 리포트 인증 유형(IR/LR/MR/Self MR) 선택 + 테스트 기간 표시"
+  "release_notes": "[feat] 이메일 진행바 모듈기반 수정 + 잠금화면 suite 입력/경과시간 개선 + Jira 개별 업데이트 + Dashboard 수정"
 }
