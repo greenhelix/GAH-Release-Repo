@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "date": "2026-04-14",
+  "version": "1.0.2",
+  "date": "2026-04-15",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] Jira 결과 공유 — FW 에픽 자동 검색 + Suite별 이슈 매핑 + ADF 결과 테이블 전송"
+  "release_notes": "[fix] F-010 Jira 수정 — FW 에픽 매칭 + XTS 도구 필터 + ADF expand 누적 + Confluence 모듈 링크 + Redmine 결과 누적 양식"
 }
