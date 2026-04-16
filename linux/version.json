@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "date": "2026-04-16",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] F-010 해결방안 트리뷰 — Suite/Module/TestCase 3단계 탐색 + 버전 범위 뱃지 + 변경 이력 카드"
+  "release_notes": "[feat] 해결방안 좌우 분할 레이아웃 + Suite 목록 누락 수정 + 케이스명 파싱 버그 수정"
 }
