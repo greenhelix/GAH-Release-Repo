@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "date": "2026-04-15",
+  "version": "1.0.3",
+  "date": "2026-04-16",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] F-010 Jira 수정 — FW 에픽 매칭 + XTS 도구 필터 + ADF expand 누적 + Confluence 모듈 링크 + Redmine 결과 누적 양식"
+  "release_notes": "[feat] F-010 해결방안 트리뷰 — Suite/Module/TestCase 3단계 탐색 + 버전 범위 뱃지 + 변경 이력 카드"
 }
