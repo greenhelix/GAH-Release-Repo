@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "date": "2026-04-17",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] 대시보드 실시간 테스트 현황 + 앱 전체 텍스트 크기 상향"
+  "release_notes": "[fix] XTS 경로 탐색 유연화 — 숫자 접두사 폴더 + Android SDK 다중 경로 지원"
 }
