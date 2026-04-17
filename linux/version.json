@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "date": "2026-04-17",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] XTS 경로 탐색 유연화 — 숫자 접두사 폴더 + Android SDK 다중 경로 지원"
+  "release_notes": "[fix] tmux pipe-pane 레이스 컨디션 수정 — 도구 실행 초기 에러 출력 캡처"
 }
