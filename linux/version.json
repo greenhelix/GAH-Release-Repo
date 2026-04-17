@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.9",
   "date": "2026-04-17",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] tmux pipe-pane 레이스 컨디션 수정 — 도구 실행 초기 에러 출력 캡처"
+  "release_notes": "[feat] FW 리포트 — 테스트 시작 알림 (Jira 상태 업데이트 + 이메일 동시 전송)"
 }
