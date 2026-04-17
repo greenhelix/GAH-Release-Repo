@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "date": "2026-04-16",
+  "version": "1.0.5",
+  "date": "2026-04-17",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] 해결방안 좌우 분할 레이아웃 + Suite 목록 누락 수정 + 케이스명 파싱 버그 수정"
+  "release_notes": "[feat] 대시보드 실시간 테스트 현황 + 앱 전체 텍스트 크기 상향"
 }
