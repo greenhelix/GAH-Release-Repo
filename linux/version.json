@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "date": "2026-04-17",
+  "version": "1.0.10",
+  "date": "2026-04-19",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] FW 리포트 — 테스트 시작 알림 (Jira 상태 업데이트 + 이메일 동시 전송)"
+  "release_notes": "[feat] FW 리포트 — Suite 제외(X 버튼), 진행률 바 색상 4단계, 상태 드롭다운 오버라이드"
 }
