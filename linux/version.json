@@ -1,6 +1,6 @@
 {
-  "version": "1.0.11",
+  "version": "1.0.12",
   "date": "2026-04-20",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] FW 리포트 — Suite X 버튼 hitbox 수정, 상태 배지 긴 텍스트 말줄임 처리"
+  "release_notes": "[feat] 테스트 결과 — SmokeTest(JSON) / CTS-V(ZIP) 수동 업로드 기능 추가"
 }
