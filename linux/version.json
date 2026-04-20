@@ -1,6 +1,6 @@
 {
-  "version": "1.0.10",
-  "date": "2026-04-19",
+  "version": "1.0.11",
+  "date": "2026-04-20",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] FW 리포트 — Suite 제외(X 버튼), 진행률 바 색상 4단계, 상태 드롭다운 오버라이드"
+  "release_notes": "[fix] FW 리포트 — Suite X 버튼 hitbox 수정, 상태 배지 긴 텍스트 말줄임 처리"
 }
