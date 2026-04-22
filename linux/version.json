@@ -1,6 +1,6 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "date": "2026-04-22",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] ADB Controller 탭 추가 — scrcpy / Key Events / Quick Commands / File Push"
+  "release_notes": "[feat] ADB Controller — 키패드 섹션 접기/펼치기 + 숫자패드 + ESC/Sleep/Wake/Volume/Media"
 }
