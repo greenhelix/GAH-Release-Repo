@@ -1,6 +1,6 @@
 {
-  "version": "1.0.13",
-  "date": "2026-04-21",
+  "version": "1.0.14",
+  "date": "2026-04-22",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] FW 리포트 — CTS-V 표시명/진행률 수정 + SmokeTest FW 버전 연동"
+  "release_notes": "[feat] ADB Controller 탭 추가 — scrcpy / Key Events / Quick Commands / File Push"
 }
