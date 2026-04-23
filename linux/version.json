@@ -1,6 +1,6 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "date": "2026-04-23",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] ADB Controller — adb 경로 탐색 수정 (EnvCheck와 동일, SDK 직접 탐색)"
+  "release_notes": "[feat] ADB Controller — 파일 탐색기 탭 추가 (탐색/Pull/삭제)"
 }
