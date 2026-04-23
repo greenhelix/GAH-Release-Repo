@@ -1,6 +1,6 @@
 {
-  "version": "1.0.15",
-  "date": "2026-04-22",
+  "version": "1.0.16",
+  "date": "2026-04-23",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] ADB Controller — 키패드 섹션 접기/펼치기 + 숫자패드 + ESC/Sleep/Wake/Volume/Media"
+  "release_notes": "[fix] ADB Controller — PATH 해결 버그 수정 (데스크톱 런처) + 디버깅 로그 강화"
 }
