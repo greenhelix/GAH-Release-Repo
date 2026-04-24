@@ -1,6 +1,6 @@
 {
-  "version": "1.0.18",
-  "date": "2026-04-23",
+  "version": "1.0.19",
+  "date": "2026-04-24",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] ADB Controller — 파일 탐색기 탭 추가 (탐색/Pull/삭제)"
+  "release_notes": "[feat] xTS 분기별 업데이트 일정 탭 추가 / [fix] ADB 파일 탐색기 버그 수정"
 }
