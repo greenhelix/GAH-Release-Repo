@@ -1,6 +1,6 @@
 {
-  "version": "1.0.19",
-  "date": "2026-04-24",
+  "version": "1.0.20",
+  "date": "2026-04-26",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] xTS 분기별 업데이트 일정 탭 추가 / [fix] ADB 파일 탐색기 버그 수정"
+  "release_notes": "[feat] Jira 결과 공유 개선 — ADF 3섹션 구조 / 진행률 드롭다운 / TestType 레이블 / 공유 세션 목록 상세 표시"
 }
