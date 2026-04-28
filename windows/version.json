@@ -1,6 +1,6 @@
 {
-  "version": "0.1.2",
-  "date": "2026-03-11",
+  "version": "1.0.21",
+  "date": "2026-04-28",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/windows/gah-windows-x64.zip",
-  "release_notes": "Windows 초기 릴리즈"
+  "release_notes": "Jira 업무생성 개선, tvts-tf> 지원, Windows 자동 업데이트"
 }
