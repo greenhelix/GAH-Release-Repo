@@ -1,6 +1,6 @@
 {
-  "version": "1.0.20",
-  "date": "2026-04-26",
+  "version": "1.0.22",
+  "date": "2026-05-01",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] Jira 결과 공유 개선 — ADF 3섹션 구조 / 진행률 드롭다운 / TestType 레이블 / 공유 세션 목록 상세 표시"
+  "release_notes": "[feat] 해결방안 UI 개선 — 상세 페이지 텍스트 선택 지원 / 목록 페이지 자동 새로고침 / feature 파일 F-012 정비"
 }
