@@ -1,6 +1,6 @@
 {
-  "version": "1.0.22",
-  "date": "2026-05-01",
+  "version": "1.0.23",
+  "date": "2026-05-06",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] 해결방안 UI 개선 — 상세 페이지 텍스트 선택 지원 / 목록 페이지 자동 새로고침 / feature 파일 F-012 정비"
+  "release_notes": "[feat] Jira 결과 업로드 개선 — FW 버전 Jira 드롭다운 선택 / 테스트 결과 보고서 간소화 / 결과 ZIP 누적 첨부"
 }
