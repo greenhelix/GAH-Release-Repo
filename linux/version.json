@@ -1,6 +1,6 @@
 {
-  "version": "1.0.24",
-  "date": "2026-05-06",
+  "version": "1.0.25",
+  "date": "2026-05-07",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] F-011 결과 업로드 UX 개선 — 설치경로 자동 로드 / 결과 폴더 날짜 표시 / FW 버전 Jira 드롭다운 / 업로드 미리보기"
+  "release_notes": "[feat] F-011 결과 업로드 개선 — 팝업 세션 선택 / XML 전체 파싱 / Jira ADF+커스텀필드 자동 설정"
 }
