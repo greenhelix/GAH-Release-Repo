@@ -1,6 +1,6 @@
 {
-  "version": "1.0.31",
+  "version": "1.0.32",
   "date": "2026-05-13",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] v1.0.31 — tmux 세션 자동 정리 + 로그 화면 개선 (wrap 토글, 색상 분리)"
+  "release_notes": "[feat] v1.0.32 — 로그 분석 탭 추가 (터미널/로그 분석 듀얼 탭, 드래그 복사 지원)"
 }

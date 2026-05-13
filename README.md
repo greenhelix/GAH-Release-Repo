@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.0.31-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.0.32-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -51,7 +51,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 플랫폼 | 버전 | 날짜 |
 |--------|------|------|
-| Linux | **v1.0.31** | 2026-05-13 |
+| Linux | **v1.0.32** | 2026-05-13 |
 | Windows | v0.1.2 | 2026-04-28 |
 | macOS | v1.0.23 | 2026-05-04 |
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.0.32** | 2026-05-13 | Linux | 로그 분석 탭 추가 — 터미널/로그 분석 듀얼 탭, 드래그 복사 지원 |
 | **v1.0.31** | 2026-05-13 | Linux | tmux 세션 자동 정리 + 로그 화면 개선 (wrap 토글, 색상 분리) |
 | **v1.0.30** | 2026-05-11 | Linux | F-011 Jira 업로드 UI 멈춤 수정 — SAX 파서 + Isolate 파싱 + 모듈 진행률 표시 |
 | **v1.0.28** | 2026-05-07 | Linux | F-011 테스트 결과 필드(customfield_10159) 업로드 연결 — 진행률 editmeta 방식 수정 / 커스텀 필드 업데이트 분리 |
