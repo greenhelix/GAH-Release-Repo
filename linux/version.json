@@ -1,6 +1,6 @@
 {
-  "version": "1.0.33",
+  "version": "1.0.34",
   "date": "2026-05-13",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] v1.0.33 — 터미널 세션 race condition 수정 + 색상 토글 + UI 2행 개편 + 상태바"
+  "release_notes": "[fix] v1.0.34 — 스크롤 수정 + PTY 중복 연결 방지 + 로그파서 FAILED 감지 + 직접실행 레이아웃"
 }
