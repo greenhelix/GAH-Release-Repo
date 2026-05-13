@@ -1,6 +1,6 @@
 {
-  "version": "1.0.32",
+  "version": "1.0.33",
   "date": "2026-05-13",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.0.32 — 로그 분석 탭 추가 (터미널/로그 분석 듀얼 탭, 드래그 복사 지원)"
+  "release_notes": "[fix] v1.0.33 — 터미널 세션 race condition 수정 + 색상 토글 + UI 2행 개편 + 상태바"
 }
