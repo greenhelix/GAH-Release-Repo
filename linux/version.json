@@ -1,6 +1,6 @@
 {
-  "version": "1.0.30",
-  "date": "2026-05-11",
+  "version": "1.0.31",
+  "date": "2026-05-13",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] F-011 Jira 업로드 UI 멈춤 수정 — SAX 파서 + Isolate 파싱 + 모듈 진행률 표시"
+  "release_notes": "[fix] v1.0.31 — tmux 세션 자동 정리 + 로그 화면 개선 (wrap 토글, 색상 분리)"
 }
