@@ -1,6 +1,6 @@
 {
-  "version": "1.0.35",
+  "version": "1.0.36",
   "date": "2026-05-14",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] v1.0.35 — l i 상태바 ANSI 파싱 수정 + tmux 마우스 설정 안내 다이얼로그"
+  "release_notes": "[feat] v1.0.36 — 대시보드 실시간 트래킹 (tmux capture-pane) + 물결 Pass Rate UI"
 }
