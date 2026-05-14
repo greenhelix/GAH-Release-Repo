@@ -1,6 +1,6 @@
 {
-  "version": "1.0.34",
-  "date": "2026-05-13",
+  "version": "1.0.35",
+  "date": "2026-05-14",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] v1.0.34 — 스크롤 수정 + PTY 중복 연결 방지 + 로그파서 FAILED 감지 + 직접실행 레이아웃"
+  "release_notes": "[fix] v1.0.35 — l i 상태바 ANSI 파싱 수정 + tmux 마우스 설정 안내 다이얼로그"
 }

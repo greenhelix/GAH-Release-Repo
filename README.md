@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.0.34-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.0.35-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -51,7 +51,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 플랫폼 | 버전 | 날짜 |
 |--------|------|------|
-| Linux | **v1.0.34** | 2026-05-13 |
+| Linux | **v1.0.35** | 2026-05-14 |
 | Windows | v0.1.2 | 2026-04-28 |
 | macOS | v1.0.23 | 2026-05-04 |
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.0.35** | 2026-05-14 | Linux | l i 상태바 ANSI 파싱 수정 + tmux 마우스 설정 안내 다이얼로그 |
 | **v1.0.34** | 2026-05-13 | Linux | 스크롤 수정 + PTY 중복 연결 방지 + 로그파서 FAILED 감지 + 직접실행 레이아웃 |
 | **v1.0.33** | 2026-05-13 | Linux | 터미널 세션 race condition 수정 + 색상 토글 + UI 2행 개편 + 하단 상태바 |
 | **v1.0.32** | 2026-05-13 | Linux | 로그 분석 탭 추가 — 터미널/로그 분석 듀얼 탭, 드래그 복사 지원 |
