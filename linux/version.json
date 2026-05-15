@@ -1,6 +1,6 @@
 {
-  "version": "1.0.36",
-  "date": "2026-05-14",
+  "version": "1.0.37",
+  "date": "2026-05-15",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.0.36 — 대시보드 실시간 트래킹 (tmux capture-pane) + 물결 Pass Rate UI"
+  "release_notes": "[feat] v1.0.37 — 터미널 뷰 가독성 개선 (폰트 크기↑, 패딩, 커서 스타일)"
 }
