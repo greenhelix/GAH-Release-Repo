@@ -1,6 +1,6 @@
 {
-  "version": "1.0.39",
-  "date": "2026-06-04",
+  "version": "1.0.40",
+  "date": "2026-06-06",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.0.39 — Tools 메뉴 개편 + YTS 명령어 생성 기능 추가"
+  "release_notes": "[fix] v1.0.40 — YTS DB 관리 목록 미리보기 제거"
 }
