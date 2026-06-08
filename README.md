@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.0.40-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.0.41-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -51,7 +51,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 플랫폼 | 버전 | 날짜 |
 |--------|------|------|
-| Linux | **v1.0.40** | 2026-06-06 |
+| Linux | **v1.0.41** | 2026-06-08 |
 | Windows | v0.1.2 | 2026-04-28 |
 | macOS | v1.0.23 | 2026-05-04 |
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.0.41** | 2026-06-08 | Linux | Lark Drive 업로드 + 결과 문서 생성 기능 추가 |
 | **v1.0.40** | 2026-06-06 | Linux | YTS DB 관리 목록 미리보기 제거 |
 | **v1.0.39** | 2026-06-04 | Linux | Tools 메뉴 개편 + YTS 명령어 생성 기능 추가 |
 | **v1.0.38** | 2026-05-26 | Linux | Supabase → 로컬 PostgreSQL(PostgREST) 이전 |
