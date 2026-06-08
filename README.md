@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.0.43-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.0.44-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -51,7 +51,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 플랫폼 | 버전 | 날짜 |
 |--------|------|------|
-| Linux | **v1.0.43** | 2026-06-08 |
+| Linux | **v1.0.44** | 2026-06-08 |
 | Windows | v0.1.2 | 2026-04-28 |
 | macOS | v1.0.23 | 2026-05-04 |
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.0.44** | 2026-06-08 | Linux | 결과 문서 생성 단계별 진행 상태 표시 |
 | **v1.0.43** | 2026-06-08 | Linux | Lark 결과 문서 실패 목록 파싱 개선 |
 | **v1.0.42** | 2026-06-08 | Linux | Lark 업로드/문서 생성 버그 수정 |
 | **v1.0.41** | 2026-06-08 | Linux | Lark Drive 업로드 + 결과 문서 생성 기능 추가 |
