@@ -1,6 +1,6 @@
 {
-  "version": "1.0.46",
+  "version": "1.0.47",
   "date": "2026-06-09",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.0.46 — Lark Drive → Wiki Space 전환 (결과 문서 Wiki 노드 생성)"
+  "release_notes": "[fix] v1.0.47 — Wiki 문서 제목 {Suite}-{빌드버전}-{폴더명} 형식으로 변경"
 }
