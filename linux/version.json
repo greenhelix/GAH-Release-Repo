@@ -1,6 +1,6 @@
 {
-  "version": "1.0.45",
-  "date": "2026-06-08",
+  "version": "1.0.46",
+  "date": "2026-06-09",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] v1.0.45 — Lark 결과 문서 실패 판정 수정 + 폴더 선택 UI"
+  "release_notes": "[feat] v1.0.46 — Lark Drive → Wiki Space 전환 (결과 문서 Wiki 노드 생성)"
 }
