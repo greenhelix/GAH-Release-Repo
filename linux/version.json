@@ -1,6 +1,6 @@
 {
-  "version": "1.0.47",
-  "date": "2026-06-09",
+  "version": "1.0.48",
+  "date": "2026-06-11",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] v1.0.47 — Wiki 문서 제목 {Suite}-{빌드버전}-{폴더명} 형식으로 변경"
+  "release_notes": "[feat] v1.0.48 — Jira 메뉴 비활성화 + Lark Base 테스트 데이터 자동 기록"
 }

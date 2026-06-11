@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.0.47-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.0.48-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -51,7 +51,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 플랫폼 | 버전 | 날짜 |
 |--------|------|------|
-| Linux | **v1.0.47** | 2026-06-09 |
+| Linux | **v1.0.48** | 2026-06-11 |
 | Windows | v0.1.2 | 2026-04-28 |
 | macOS | v1.0.23 | 2026-05-04 |
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.0.48** | 2026-06-11 | Linux | Jira 메뉴 비활성화 + Lark Base 테스트 데이터 자동 기록 |
 | **v1.0.47** | 2026-06-09 | Linux | Wiki 문서 제목 {Suite}-{빌드버전}-{폴더명} 형식으로 변경 |
 | **v1.0.46** | 2026-06-09 | Linux | Lark Drive → Wiki Space 전환 (결과 문서 Wiki 노드 생성) |
 | **v1.0.45** | 2026-06-08 | Linux | Lark 결과 문서 실패 판정 수정 + 폴더 선택 UI |
