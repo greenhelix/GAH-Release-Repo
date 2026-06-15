@@ -1,6 +1,6 @@
 {
-  "version": "1.0.52",
+  "version": "1.0.53",
   "date": "2026-06-15",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] v1.0.52 — Feishu Base 필드명 정리 + 오류 메시지 선택 가능"
+  "release_notes": "[fix] v1.0.53 — 실시간 현황 pass/fail 파싱 개선 (GTS/CTS 로그 포맷 기반)"
 }
