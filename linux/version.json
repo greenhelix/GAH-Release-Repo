@@ -1,6 +1,6 @@
 {
-  "version": "1.0.49",
+  "version": "1.0.50",
   "date": "2026-06-15",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.0.49 — Feishu Base 자동 업로드 + tmux 마우스 토글 + 실시간 현황 탭"
+  "release_notes": "[fix] v1.0.50 — 단색모드 마우스 스크롤 수정 + Tailscale 경고 배너"
 }
