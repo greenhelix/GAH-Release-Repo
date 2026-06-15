@@ -1,6 +1,6 @@
 {
-  "version": "1.0.48",
-  "date": "2026-06-11",
+  "version": "1.0.49",
+  "date": "2026-06-15",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.0.48 — Jira 메뉴 비활성화 + Lark Base 테스트 데이터 자동 기록"
+  "release_notes": "[feat] v1.0.49 — Feishu Base 자동 업로드 + tmux 마우스 토글 + 실시간 현황 탭"
 }
