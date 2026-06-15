@@ -1,6 +1,6 @@
 {
-  "version": "1.0.50",
+  "version": "1.0.51",
   "date": "2026-06-15",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] v1.0.50 — 단색모드 마우스 스크롤 수정 + Tailscale 경고 배너"
+  "release_notes": "[feat] v1.0.51 — Tool Version 페이지 개선"
 }
