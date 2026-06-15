@@ -1,6 +1,6 @@
 {
-  "version": "1.0.53",
+  "version": "1.0.54",
   "date": "2026-06-15",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] v1.0.53 — 실시간 현황 pass/fail 파싱 개선 (GTS/CTS 로그 포맷 기반)"
+  "release_notes": "[feat] v1.0.54 — 대시보드 LIVE/기록 탭 분리, 레이스 커브·Shard 수영레인, DB 기반 ETA, auto_upload DB 단계 제거"
 }
