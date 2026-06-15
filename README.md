@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.0.51-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.0.52-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -51,7 +51,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 플랫폼 | 버전 | 날짜 |
 |--------|------|------|
-| Linux | **v1.0.51** | 2026-06-15 |
+| Linux | **v1.0.52** | 2026-06-15 |
 | Windows | v0.1.2 | 2026-04-28 |
 | macOS | v1.0.23 | 2026-05-04 |
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.0.52** | 2026-06-15 | Linux | Feishu Base 필드명 정리 + 오류 메시지 선택 가능 |
 | **v1.0.51** | 2026-06-15 | Linux | Tool Version 페이지 개선 |
 | **v1.0.50** | 2026-06-15 | Linux | 단색모드 마우스 스크롤 수정 + Tailscale 경고 배너 |
 | **v1.0.49** | 2026-06-15 | Linux | Feishu Base 자동 업로드 + tmux 마우스 토글 + 실시간 현황 탭 |

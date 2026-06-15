@@ -1,6 +1,6 @@
 {
-  "version": "1.0.51",
+  "version": "1.0.52",
   "date": "2026-06-15",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.0.51 — Tool Version 페이지 개선"
+  "release_notes": "[fix] v1.0.52 — Feishu Base 필드명 정리 + 오류 메시지 선택 가능"
 }
