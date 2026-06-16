@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.0.54-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.0.55-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -51,7 +51,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 플랫폼 | 버전 | 날짜 |
 |--------|------|------|
-| Linux | **v1.0.54** | 2026-06-15 |
+| Linux | **v1.0.55** | 2026-06-16 |
 | Windows | v0.1.2 | 2026-04-28 |
 | macOS | v1.0.23 | 2026-05-04 |
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.0.55** | 2026-06-16 | Linux | 터미널 스크롤 수정, 대시보드 그래프 DB 기반 동작, retry 세션 실측 ETA |
 | **v1.0.54** | 2026-06-15 | Linux | 대시보드 LIVE/기록 탭 분리, 레이스 커브·Shard 수영레인, DB 기반 ETA, auto_upload DB 단계 제거 |
 | **v1.0.53** | 2026-06-15 | Linux | 실시간 현황 pass/fail 파싱 개선 (GTS/CTS 로그 포맷 기반) |
 | **v1.0.52** | 2026-06-15 | Linux | Feishu Base 필드명 정리 + 오류 메시지 선택 가능 |
