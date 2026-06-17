@@ -1,6 +1,6 @@
 {
-  "version": "1.0.55",
-  "date": "2026-06-16",
+  "version": "1.0.56",
+  "date": "2026-06-17",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.0.55 — 터미널 스크롤 수정, 대시보드 그래프 DB 기반 동작, retry 세션 실측 ETA"
+  "release_notes": "[feat] v1.0.56 — 대시보드 UI 개선: PASS RATE 4색 세그먼트 바, Shard 수영레인 그라데이션 카드, 레이스 커브 전체 타임라인"
 }
