@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.0.56-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.0.57-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -51,7 +51,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 플랫폼 | 버전 | 날짜 |
 |--------|------|------|
-| Linux | **v1.0.56** | 2026-06-17 |
+| Linux | **v1.0.57** | 2026-06-17 |
 | Windows | v0.1.2 | 2026-04-28 |
 | macOS | v1.0.23 | 2026-05-04 |
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.0.57** | 2026-06-17 | Linux | retry ETA 정확도 개선: 전체 세션 합산 → 실제 실행 모듈 기반 동적 추정 |
 | **v1.0.56** | 2026-06-17 | Linux | 대시보드 UI 개선: PASS RATE 4색 세그먼트 바, Shard 수영레인 그라데이션 카드, 레이스 커브 전체 타임라인 |
 | **v1.0.55** | 2026-06-16 | Linux | 터미널 스크롤 수정, 대시보드 그래프 DB 기반 동작, retry 세션 실측 ETA |
 | **v1.0.54** | 2026-06-15 | Linux | 대시보드 LIVE/기록 탭 분리, 레이스 커브·Shard 수영레인, DB 기반 ETA, auto_upload DB 단계 제거 |
