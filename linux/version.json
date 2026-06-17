@@ -1,6 +1,6 @@
 {
-  "version": "1.0.60",
+  "version": "1.0.61",
   "date": "2026-06-17",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] v1.0.60 — 실시간 현황 UI 개선, 상태바 제거, 터미널 줌 추가"
+  "release_notes": "[feat] v1.0.61 — 성능 분석 대시보드 (시간 트렌드/선형회귀/Shard 비교/병목 분석), ETA 개선, 실시간 현황 강화, retry 추적"
 }
