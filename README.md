@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.0.59-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.0.60-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -51,7 +51,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 플랫폼 | 버전 | 날짜 |
 |--------|------|------|
-| Linux | **v1.0.59** | 2026-06-17 |
+| Linux | **v1.0.60** | 2026-06-17 |
 | Windows | v0.1.2 | 2026-04-28 |
 | macOS | v1.0.23 | 2026-05-04 |
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.0.60** | 2026-06-17 | Linux | 실시간 현황 UI 개선 (레이아웃·타이머·상태바 제거), 터미널 Ctrl+Shift+줌 |
 | **v1.0.59** | 2026-06-17 | Linux | PASS RATE / MODULE 바 indeterminate 애니메이션 제거 |
 | **v1.0.58** | 2026-06-17 | Linux | retry 경과시간 고정, GTS 마지막 모듈 완료 감지, ETA 과대추정 수정 |
 | **v1.0.57** | 2026-06-17 | Linux | retry ETA 정확도 개선: 전체 세션 합산 → 실제 실행 모듈 기반 동적 추정 |
