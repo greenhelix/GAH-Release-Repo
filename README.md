@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.0.61-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.1.0-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -51,7 +51,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 플랫폼 | 버전 | 날짜 |
 |--------|------|------|
-| Linux | **v1.0.61** | 2026-06-17 |
+| Linux | **v1.1.0** | 2026-06-18 |
 | Windows | v0.1.2 | 2026-04-28 |
 | macOS | v1.0.23 | 2026-05-04 |
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.1.0** | 2026-06-18 | Linux | XTS 테스트 시간 정량화 (정밀 타이밍 파서/DB 마이그레이션), 실시간 shard 로그 표시, -m 모듈 정보, 리소스 최적화/dead code 정리 |
 | **v1.0.61** | 2026-06-17 | Linux | 성능 분석 대시보드 (시간 트렌드/선형회귀/Shard 비교/병목 분석), ETA 개선, 실시간 현황 강화, retry 추적 |
 | **v1.0.60** | 2026-06-17 | Linux | 실시간 현황 UI 개선 (레이아웃·타이머·상태바 제거), 터미널 Ctrl+Shift+줌 |
 | **v1.0.59** | 2026-06-17 | Linux | PASS RATE / MODULE 바 indeterminate 애니메이션 제거 |
