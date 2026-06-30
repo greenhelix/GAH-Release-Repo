@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "date": "2026-06-18",
+  "version": "1.2.0",
+  "date": "2026-06-30",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.1.0 — XTS 테스트 시간 정량화 (정밀 타이밍 파서/DB 마이그레이션), 실시간 shard 로그 표시, -m 모듈 정보, 리소스 최적화/dead code 정리"
+  "release_notes": "[feat] v1.2.0 — 공유 메뉴 5탭 재편 (테스트 등록/DB/Lark/이메일/설정), Lark Bot 메신저 상태 공유, Redmine 완전 제거, Lark 기본 설정값 내장"
 }
