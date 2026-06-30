@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "date": "2026-06-30",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.2.1 — 테스트 등록 UI 개선 (17개 항목 + 커스텀 추가), Jira 시작알림 제거, Base 테이블 필드명 정리"
+  "release_notes": "[feat] v1.2.2 — FW 통합 리포트 Lark Base 연동 (진행률 조회 + 프로그레스바 HTML 이메일), 테스트 등록 Base 업로드, 설정 정리"
 }

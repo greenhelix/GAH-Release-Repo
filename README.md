@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.2.1-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.2.2-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -51,7 +51,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 플랫폼 | 버전 | 날짜 |
 |--------|------|------|
-| Linux | **v1.2.1** | 2026-06-30 |
+| Linux | **v1.2.2** | 2026-06-30 |
 | Windows | v0.1.2 | 2026-04-28 |
 | macOS | v1.0.23 | 2026-05-04 |
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.2.2** | 2026-06-30 | Linux | FW 통합 리포트 Lark Base 연동 (진행률 조회 + 프로그레스바 HTML 이메일), 테스트 등록 Base 업로드, 설정 정리 |
 | **v1.2.1** | 2026-06-30 | Linux | 테스트 등록 UI 개선 (17개 항목 + 커스텀 추가), Jira 시작알림 제거, Base 테이블 필드명 정리 |
 | **v1.2.0** | 2026-06-30 | Linux | 공유 메뉴 5탭 재편 (테스트 등록/DB/Lark/이메일/설정), Lark Bot 메신저 상태 공유, Redmine 완전 제거 |
 | **v1.1.0** | 2026-06-18 | Linux | XTS 테스트 시간 정량화 (정밀 타이밍 파서/DB 마이그레이션), 실시간 shard 로그 표시, -m 모듈 정보, 리소스 최적화/dead code 정리 |
