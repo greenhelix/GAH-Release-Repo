@@ -1,6 +1,6 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "date": "2026-07-01",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.2.4 — Bot 카드 메시지 (FW 진행 현황 + 결과 요약), 결과 메뉴 정리, DB 탭 제거"
+  "release_notes": "[fix] v1.2.5 — Bot 카드 메시지 schema 2.0 적용 (markdown 렌더링 정상화)"
 }

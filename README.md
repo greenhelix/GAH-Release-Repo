@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.2.4-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.2.5-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -51,7 +51,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 플랫폼 | 버전 | 날짜 |
 |--------|------|------|
-| Linux | **v1.2.4** | 2026-07-01 |
+| Linux | **v1.2.5** | 2026-07-01 |
 | Windows | v0.1.2 | 2026-04-28 |
 | macOS | v1.0.23 | 2026-05-04 |
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.2.5** | 2026-07-01 | Linux | Bot 카드 메시지 schema 2.0 적용 (markdown 렌더링 정상화) |
 | **v1.2.4** | 2026-07-01 | Linux | Bot 카드 메시지 (FW 진행 현황 + 결과 요약), 결과 메뉴 정리, DB 탭 제거 |
 | **v1.2.3** | 2026-07-01 | Linux | Lark Base 숫자 필드 파싱 수정 (진행률/shard 정상 반영) |
 | **v1.2.2** | 2026-06-30 | Linux | FW 통합 리포트 Lark Base 연동 (진행률 조회 + 프로그레스바 HTML 이메일), 테스트 등록 Base 업로드, 설정 정리 |
