@@ -1,6 +1,6 @@
 {
-  "version": "1.2.6",
-  "date": "2026-07-01",
+  "version": "1.2.7",
+  "date": "2026-07-06",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] v1.2.6 — 카드 메시지 schema 1.0 전환 (전송 오류 수정) + 에러 SelectableText"
+  "release_notes": "[feat] v1.2.7 — FW 리포트 DB 조회 이중화 + All Pass Upload 제거 + 카드 메시지 Schema 2.0 + app_secret 갱신"
 }

@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.2.6-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.2.7-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -51,7 +51,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 플랫폼 | 버전 | 날짜 |
 |--------|------|------|
-| Linux | **v1.2.6** | 2026-07-01 |
+| Linux | **v1.2.7** | 2026-07-06 |
 | Windows | v0.1.2 | 2026-04-28 |
 | macOS | v1.0.23 | 2026-05-04 |
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.2.7** | 2026-07-06 | Linux | FW 리포트 DB 조회 이중화, All Pass Upload 제거, 카드 메시지 Schema 2.0, app_secret 갱신 |
 | **v1.2.6** | 2026-07-01 | Linux | 카드 메시지 schema 1.0 전환 (전송 오류 수정) + 에러 SelectableText |
 | **v1.2.5** | 2026-07-01 | Linux | Bot 카드 메시지 schema 2.0 적용 (markdown 렌더링 정상화) |
 | **v1.2.4** | 2026-07-01 | Linux | Bot 카드 메시지 (FW 진행 현황 + 결과 요약), 결과 메뉴 정리, DB 탭 제거 |
