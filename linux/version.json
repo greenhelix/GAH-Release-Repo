@@ -1,6 +1,6 @@
 {
-  "version": "1.2.7",
-  "date": "2026-07-06",
+  "version": "1.2.8",
+  "date": "2026-07-13",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.2.7 — FW 리포트 DB 조회 이중화 + All Pass Upload 제거 + 카드 메시지 Schema 2.0 + app_secret 갱신"
+  "release_notes": "[feat] v1.2.8 — F-013 ATS Webhook 수신 내장 (포트 8765) → Lark Base 자동 업로드"
 }
