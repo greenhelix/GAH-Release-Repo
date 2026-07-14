@@ -1,6 +1,6 @@
 {
-  "version": "1.2.9",
+  "version": "1.2.10",
   "date": "2026-07-14",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] v1.2.9 — ATS Webhook: Hook 수신 후 ATS API 직접 조회로 전환 (빈 body 문제 해결)"
+  "release_notes": "[fix] v1.2.10 — ATS Webhook: FieldNameNotFound 수정 + ATS 상세 API로 실제 count 조회"
 }
