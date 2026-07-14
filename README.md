@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.2.10-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.2.11-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -51,7 +51,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 플랫폼 | 버전 | 날짜 |
 |--------|------|------|
-| Linux | **v1.2.10** | 2026-07-14 |
+| Linux | **v1.2.11** | 2026-07-14 |
 | Windows | v0.1.2 | 2026-04-28 |
 | macOS | v1.0.23 | 2026-05-04 |
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.2.11** | 2026-07-14 | Linux | ATS Webhook 히스토리 영속화 + 라이브 트래킹 (30초 폴링, RUNNING 배너) |
 | **v1.2.10** | 2026-07-14 | Linux | ATS Webhook: FieldNameNotFound 수정 + ATS 상세 API로 실제 count 조회 |
 | **v1.2.9** | 2026-07-14 | Linux | ATS Webhook: Hook 수신 후 ATS API 직접 조회로 전환 (빈 body 문제 해결) |
 | **v1.2.8** | 2026-07-13 | Linux | F-013 ATS Webhook 수신 내장 (포트 8765) → Lark Base 자동 업로드, 히스토리 UI |
