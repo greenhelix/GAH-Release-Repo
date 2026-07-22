@@ -1,6 +1,6 @@
 {
-  "version": "1.2.11",
-  "date": "2026-07-14",
+  "version": "1.2.13",
+  "date": "2026-07-22",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.2.11 — ATS Webhook 히스토리 영속화 + 라이브 트래킹 (30초 폴링)"
+  "release_notes": "[refactor] v1.2.13 — Jira 제거 + ATS 연결 진단 + Tool 버전 필드"
 }
