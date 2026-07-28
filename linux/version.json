@@ -1,6 +1,6 @@
 {
-  "version": "1.2.15",
+  "version": "1.2.16",
   "date": "2026-07-28",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] v1.2.15 — ATS XML 파싱 output_url 폴백 + fw_version XML 반영"
+  "release_notes": "[fix] v1.2.16 — ufw 진단 개선: 확인 불가 시 명령어 안내"
 }
