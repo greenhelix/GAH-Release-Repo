@@ -1,6 +1,6 @@
 {
-  "version": "1.2.14",
+  "version": "1.2.15",
   "date": "2026-07-28",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] v1.2.14 — ATS total=0 문제 해결: test_result.xml 직접 파싱"
+  "release_notes": "[fix] v1.2.15 — ATS XML 파싱 output_url 폴백 + fw_version XML 반영"
 }
