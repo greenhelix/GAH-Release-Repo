@@ -1,6 +1,6 @@
 {
-  "version": "1.2.16",
+  "version": "1.2.17",
   "date": "2026-07-28",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] v1.2.16 — ufw 진단 개선: 확인 불가 시 명령어 안내"
+  "release_notes": "[fix] v1.2.17 — ATS XML URL 이중 포트 수정: fs_proxy URL 정상화"
 }
