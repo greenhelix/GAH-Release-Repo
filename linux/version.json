@@ -1,6 +1,6 @@
 {
-  "version": "1.2.18",
+  "version": "1.2.19",
   "date": "2026-07-28",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] v1.2.18 — Lark status 필드 수정: 'failed' → 'completed'/'partial'"
+  "release_notes": "[feat] v1.2.19 — UI 개선 6가지 + ATS testcases DB 동기화"
 }
