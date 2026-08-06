@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.2.19-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.2.20-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -51,7 +51,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 플랫폼 | 버전 | 날짜 |
 |--------|------|------|
-| Linux | **v1.2.19** | 2026-07-28 |
+| Linux | **v1.2.20** | 2026-08-06 |
 | Windows | v0.1.2 | 2026-04-28 |
 | macOS | v1.0.23 | 2026-05-04 |
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.2.20** | 2026-08-06 | Linux | 대시보드 차트 개선 + Tool Observer 개편 |
 | **v1.2.19** | 2026-07-28 | Linux | UI 개선 6가지 + ATS testcases DB 동기화 (배치 upsert, 진행바) |
 | **v1.2.18** | 2026-07-28 | Linux | Lark status 필드 수정 — 'completed'/'partial' 유효값으로 정정 |
 | **v1.2.17** | 2026-07-28 | Linux | ATS XML URL 이중 포트 수정 — fs_proxy URL 정상화 |
