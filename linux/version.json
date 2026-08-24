@@ -1,6 +1,6 @@
 {
-  "version": "1.2.21",
-  "date": "2026-08-20",
+  "version": "1.2.22",
+  "date": "2026-08-24",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.2.21 — xts_tool_versions 스키마 개편(Migration 016) + ATS 결과 zip 다운로드 + Lark 도구버전 동기화 + ADB 디렉토리 용량 표시 + YTS DB 상태 배너"
+  "release_notes": "[fix] v1.2.22 — 테스트 결과 파싱/업로드 버그 4건 수정(failed_count/xts_tool_versions/device_id/host_name/command_line_args) + 모듈별 실행 디바이스 자동 매핑 + Lark/YTS 계층 구조 정리"
 }
