@@ -1,6 +1,6 @@
 {
-  "version": "1.2.23",
-  "date": "2026-08-24",
+  "version": "1.2.24",
+  "date": "2026-09-04",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] v1.2.23 — 다중 디바이스 분산 실행 모듈(dEQP류)의 device_id 오귀속 방지 (v1.2.22 모듈-디바이스 매핑 핫픽스)"
+  "release_notes": "[feat] v1.2.24 — 실시간 현황 탭 UI 전면 개편(계기판 레이아웃) + 외부 세션 관전 스캔 영구정지 버그 수정"
 }
