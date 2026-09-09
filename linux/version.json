@@ -1,6 +1,6 @@
 {
-  "version": "1.2.24",
-  "date": "2026-09-04",
+  "version": "1.2.25",
+  "date": "2026-09-09",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.2.24 — 실시간 현황 탭 UI 전면 개편(계기판 레이아웃) + 외부 세션 관전 스캔 영구정지 버그 수정"
+  "release_notes": "[feat] v1.2.25 — ADB Quick Commands DB 프리셋 연동 + 글자 크기 설정 + 실시간 현황 빈 패널 수정 + Tool Observer 알림 중복 제거"
 }

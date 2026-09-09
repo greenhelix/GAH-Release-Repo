@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.2.24-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.2.25-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -51,7 +51,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 플랫폼 | 버전 | 날짜 |
 |--------|------|------|
-| Linux | **v1.2.24** | 2026-09-04 |
+| Linux | **v1.2.25** | 2026-09-09 |
 | Windows | v0.1.2 | 2026-04-28 |
 | macOS | v1.0.23 | 2026-05-04 |
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.2.25** | 2026-09-09 | Linux | ADB Quick Commands DB 프리셋 연동 + 글자 크기 설정 + 실시간 현황 빈 패널 수정 + Tool Observer 알림 중복 제거 |
 | **v1.2.24** | 2026-09-04 | Linux | 실시간 현황 탭 UI 전면 개편(계기판 레이아웃) + 외부 세션 관전 스캔 영구정지 버그 수정 |
 | **v1.2.23** | 2026-08-24 | Linux | 다중 디바이스 분산 실행 모듈(dEQP류)의 device_id 오귀속 방지 (v1.2.22 핫픽스) |
 | **v1.2.22** | 2026-08-24 | Linux | 테스트 결과 파싱/업로드 버그 4건 수정(failed_count/xts_tool_versions/device_id/host_name/command_line_args) + 모듈별 실행 디바이스 자동 매핑 + Lark/YTS 계층 구조 정리 |
