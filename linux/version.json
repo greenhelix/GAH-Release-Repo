@@ -1,6 +1,6 @@
 {
-  "version": "1.2.26",
+  "version": "1.2.27",
   "date": "2026-09-29",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.2.26 — 호스트 리소스 모니터링 + 시스템 정리(고아 프로세스) + ADB 서버 재시작 안전장치 + VTS 진행률 폴백 + is_retry_result + 레이스커브 UI 수정"
+  "release_notes": "[feat] v1.2.27 — 분기별 일정 TVTS/STS 확장 + 릴리즈일 표시 + tmux 수동 관전 + tool_observer 릴리즈일 파싱 수정 + 실시간 현황 그래프 4종/애니메이션 4종 + 경과시간·샤드 안정화"
 }
