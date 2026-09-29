@@ -1,6 +1,6 @@
 {
-  "version": "1.2.25",
-  "date": "2026-09-09",
+  "version": "1.2.26",
+  "date": "2026-09-29",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.2.25 — ADB Quick Commands DB 프리셋 연동 + 글자 크기 설정 + 실시간 현황 빈 패널 수정 + Tool Observer 알림 중복 제거"
+  "release_notes": "[feat] v1.2.26 — 호스트 리소스 모니터링 + 시스템 정리(고아 프로세스) + ADB 서버 재시작 안전장치 + VTS 진행률 폴백 + is_retry_result + 레이스커브 UI 수정"
 }

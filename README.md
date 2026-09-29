@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.2.25-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.2.26-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -51,7 +51,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 플랫폼 | 버전 | 날짜 |
 |--------|------|------|
-| Linux | **v1.2.25** | 2026-09-09 |
+| Linux | **v1.2.26** | 2026-09-29 |
 | Windows | v0.1.2 | 2026-04-28 |
 | macOS | v1.0.23 | 2026-05-04 |
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.2.26** | 2026-09-29 | Linux | 호스트 리소스 모니터링 + 시스템 정리(고아 프로세스) + ADB 서버 재시작 안전장치 + VTS 진행률 폴백 + is_retry_result + 레이스커브 UI 수정 |
 | **v1.2.25** | 2026-09-09 | Linux | ADB Quick Commands DB 프리셋 연동 + 글자 크기 설정 + 실시간 현황 빈 패널 수정 + Tool Observer 알림 중복 제거 |
 | **v1.2.24** | 2026-09-04 | Linux | 실시간 현황 탭 UI 전면 개편(계기판 레이아웃) + 외부 세션 관전 스캔 영구정지 버그 수정 |
 | **v1.2.23** | 2026-08-24 | Linux | 다중 디바이스 분산 실행 모듈(dEQP류)의 device_id 오귀속 방지 (v1.2.22 핫픽스) |
