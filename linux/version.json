@@ -1,6 +1,6 @@
 {
-  "version": "1.2.27",
-  "date": "2026-09-29",
+  "version": "1.2.28",
+  "date": "2026-09-30",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.2.27 — 분기별 일정 TVTS/STS 확장 + 릴리즈일 표시 + tmux 수동 관전 + tool_observer 릴리즈일 파싱 수정 + 실시간 현황 그래프 4종/애니메이션 4종 + 경과시간·샤드 안정화"
+  "release_notes": "[feat] v1.2.28 — 업데이트 재시작 시 실시간 현황 누적 데이터(레이스 커브/KPI/샤드 맵 등) 스냅샷 보존·자동 복원"
 }
