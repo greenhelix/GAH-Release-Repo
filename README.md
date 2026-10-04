@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.2.28-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.2.29-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.2.29** | 2026-10-04 | Linux | retry 디바이스 오귀속 수정 + 외부 터미널 보기 + 실시간 현황 완료 감지/그래프/KPI 폰트 실사용 피드백 반영 |
 | **v1.2.28** | 2026-09-30 | Linux | 업데이트 재시작 시 실시간 현황 누적 데이터(레이스 커브/KPI/샤드 맵 등) 스냅샷 보존·자동 복원 |
 | **v1.2.27** | 2026-09-29 | Linux | 분기별 일정 TVTS/STS 확장 + 릴리즈일 표시 + tmux 수동 관전 + tool_observer 릴리즈일 파싱 수정 + 실시간 현황 그래프 4종/애니메이션 4종 + 경과시간·샤드 안정화 |
 | **v1.2.26** | 2026-09-29 | Linux | 호스트 리소스 모니터링 + 시스템 정리(고아 프로세스) + ADB 서버 재시작 안전장치 + VTS 진행률 폴백 + is_retry_result + 레이스커브 UI 수정 |
