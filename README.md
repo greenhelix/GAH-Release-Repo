@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.2.30-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.2.31-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.2.31** | 2026-10-06 | Linux | 모듈 수 불일치 원인 설명 표시 + 결과 조회 버전 설정을 테스트 메뉴와 동일한 버전 선택 방식으로 변경 |
 | **v1.2.30** | 2026-10-06 | Linux | 결과 메뉴 전용 도구 버전 설정(테스트 메뉴와 분리) + 인스트루먼트 스트립 글자크기 설정 대응 + 샤드 레인 기기 오판 수정 |
 | **v1.2.29** | 2026-10-04 | Linux | retry 디바이스 오귀속 수정 + 외부 터미널 보기 + 실시간 현황 완료 감지/그래프/KPI 폰트 실사용 피드백 반영 |
 | **v1.2.28** | 2026-09-30 | Linux | 업데이트 재시작 시 실시간 현황 누적 데이터(레이스 커브/KPI/샤드 맵 등) 스냅샷 보존·자동 복원 |

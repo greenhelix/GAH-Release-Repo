@@ -1,6 +1,6 @@
 {
-  "version": "1.2.30",
+  "version": "1.2.31",
   "date": "2026-10-06",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.2.30 — 결과 메뉴 전용 도구 버전 설정(테스트 메뉴와 분리) + 인스트루먼트 스트립 글자크기 설정 대응 + 샤드 레인 기기 오판 수정"
+  "release_notes": "[fix] v1.2.31 — 모듈 수 불일치 원인 설명 표시 + 결과 조회 버전 설정을 테스트 메뉴와 동일한 버전 선택 방식으로 변경"
 }
