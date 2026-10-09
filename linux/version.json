@@ -1,6 +1,6 @@
 {
-  "version": "1.2.31",
-  "date": "2026-10-06",
+  "version": "1.2.32",
+  "date": "2026-10-09",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] v1.2.31 — 모듈 수 불일치 원인 설명 표시 + 결과 조회 버전 설정을 테스트 메뉴와 동일한 버전 선택 방식으로 변경"
+  "release_notes": "[feat] v1.2.32 — ADB 저장공간 탭 + 설정 호스트 리소스/tmp/CEC 정리 + tmux 스크롤백 버그 수정 + 스왑 경고 문구 명확화"
 }
