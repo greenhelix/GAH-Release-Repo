@@ -1,6 +1,6 @@
 {
-  "version": "1.2.32",
-  "date": "2026-10-09",
+  "version": "1.2.33",
+  "date": "2026-10-23",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.2.32 — ADB 저장공간 탭 + 설정 호스트 리소스/tmp/CEC 정리 + tmux 스크롤백 버그 수정 + 스왑 경고 문구 명확화"
+  "release_notes": "[feat] v1.2.33 — 레이스 커브 오버슈트 제거 + 상단 요약 스크롤 고정 + ATS Webhook 기본 비활성 + 스왑 정리 명령 안내 + /tmp 정리 UX 개선 + ADB serial 잘림 수정 + Quick Command DB 새로고침 + scrcpy 바둑판 배치 + 이메일탭 자동완성"
 }

@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.2.32-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.2.33-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.2.33** | 2026-10-23 | Linux | PC3 제보 10건 일괄 반영: 레이스 커브 오버슈트 제거 + 상단 요약 스크롤 고정 + ATS Webhook 기본 비활성 + 스왑 정리 명령 안내 + /tmp 정리 UX(전체선택/로그접힘) + ADB serial 잘림 수정 + Quick Command DB 새로고침 + scrcpy 다중기기 바둑판 배치 + 이메일탭 프로젝트명/FW버전 자동완성 |
 | **v1.2.32** | 2026-10-09 | Linux | ADB 저장공간 탭 + 설정 호스트 리소스/tmp/CEC 정리 + tmux 스크롤백 버그 수정 + 스왑 경고 문구 명확화 |
 | **v1.2.31** | 2026-10-06 | Linux | 모듈 수 불일치 원인 설명 표시 + 결과 조회 버전 설정을 테스트 메뉴와 동일한 버전 선택 방식으로 변경 |
 | **v1.2.30** | 2026-10-06 | Linux | 결과 메뉴 전용 도구 버전 설정(테스트 메뉴와 분리) + 인스트루먼트 스트립 글자크기 설정 대응 + 샤드 레인 기기 오판 수정 |
