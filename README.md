@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.2.34-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.2.35-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -51,7 +51,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 플랫폼 | 버전 | 날짜 |
 |--------|------|------|
-| Linux | **v1.2.34** | 2026-10-26 |
+| Linux | **v1.2.35** | 2026-10-27 |
 | Windows | v0.1.2 | 2026-04-28 |
 | macOS | v1.0.23 | 2026-05-04 |
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.2.35** | 2026-10-27 | Linux | test_solutions에 module 컬럼 반영(매칭 정확도 개선, 레거시 호환) + 종합검색 붙여넣기 파서 포맷 지원 확대(헤더 셀 분리형, 모듈당 다건 테스트) |
 | **v1.2.34** | 2026-10-26 | Linux | 해결방안 여러 케이스 종합검색(붙여넣기 파싱) 추가 — XTS 결과 테이블을 통째로 붙여넣으면 모듈/test_class/test_name 자동 인식해 해결방안/히스토리 여부 일괄 조회 |
 | **v1.2.33** | 2026-10-23 | Linux | PC3 제보 10건 일괄 반영: 레이스 커브 오버슈트 제거 + 상단 요약 스크롤 고정 + ATS Webhook 기본 비활성 + 스왑 정리 명령 안내 + /tmp 정리 UX(전체선택/로그접힘) + ADB serial 잘림 수정 + Quick Command DB 새로고침 + scrcpy 다중기기 바둑판 배치 + 이메일탭 프로젝트명/FW버전 자동완성 |
 | **v1.2.32** | 2026-10-09 | Linux | ADB 저장공간 탭 + 설정 호스트 리소스/tmp/CEC 정리 + tmux 스크롤백 버그 수정 + 스왑 경고 문구 명확화 |

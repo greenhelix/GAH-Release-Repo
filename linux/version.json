@@ -1,6 +1,6 @@
 {
-  "version": "1.2.34",
-  "date": "2026-10-26",
+  "version": "1.2.35",
+  "date": "2026-10-27",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.2.34 — 해결방안 여러 케이스 종합검색(붙여넣기 파싱) 추가"
+  "release_notes": "[feat] v1.2.35 — test_solutions module 컬럼 매칭 반영, 종합검색 파서 포맷 지원 확대"
 }
