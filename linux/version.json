@@ -1,6 +1,6 @@
 {
-  "version": "1.2.35",
-  "date": "2026-10-27",
+  "version": "1.2.36",
+  "date": "2026-11-06",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.2.35 — test_solutions module 컬럼 매칭 반영, 종합검색 파서 포맷 지원 확대"
+  "release_notes": "[fix] v1.2.36 — 종합검색 커넥션 끊김 수정, Lark XtsToolVersions 날짜 필드 오류 수정, ADB Push 무응답/버퍼링 수정"
 }
