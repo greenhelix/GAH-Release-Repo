@@ -1,6 +1,6 @@
 {
-  "version": "1.2.36",
-  "date": "2026-11-06",
+  "version": "1.2.37",
+  "date": "2026-11-09",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] v1.2.36 — 종합검색 커넥션 끊김 수정, Lark XtsToolVersions 날짜 필드 오류 수정, ADB Push 무응답/버퍼링 수정"
+  "release_notes": "[fix] v1.2.37 — ADB \"sm forget all\" 안전장치 추가, Retry(단일 기기) 결과 shard 오집계 수정"
 }
