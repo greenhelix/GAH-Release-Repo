@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.2.37-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.2.38-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -51,7 +51,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 플랫폼 | 버전 | 날짜 |
 |--------|------|------|
-| Linux | **v1.2.37** | 2026-11-09 |
+| Linux | **v1.2.38** | 2026-11-11 |
 | Windows | v0.1.2 | 2026-04-28 |
 | macOS | v1.0.23 | 2026-05-04 |
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.2.38** | 2026-11-11 | Linux | 자동 업데이트 HTTP 504 재시도 로직 추가(502/503/504 최대 3회 지수 백오프) + ADB Controller 리모컨 모드(GAH 창 축소 + scrcpy 자동 배치) + scrcpy 해상도 선택/창 제목 표시 + 디바이스 목록 정렬 기능 추가 |
 | **v1.2.37** | 2026-11-09 | Linux | ADB "sm forget all" 안전장치 추가(연결된 외장 디스크 있으면 건너뜀) + Retry(단일 기기) 결과가 shard 여러 대로 잘못 집계되던 문제 수정(호스트 로그 기준 실제 디바이스 수로 보정) |
 | **v1.2.36** | 2026-11-06 | Linux | 종합검색 suite 전체 조회로 인한 커넥션 끊김 수정(붙여넣은 케이스로 조회 범위 제한) + Lark XtsToolVersions 동기화 날짜 필드 오류 수정(ms timestamp로 통일) + ADB Push 무응답 오탐 방지 + 진행률 미표시(출력 버퍼링) 수정 |
 | **v1.2.35** | 2026-10-27 | Linux | test_solutions에 module 컬럼 반영(매칭 정확도 개선, 레거시 호환) + 종합검색 붙여넣기 파서 포맷 지원 확대(헤더 셀 분리형, 모듈당 다건 테스트) |

@@ -1,6 +1,6 @@
 {
-  "version": "1.2.37",
-  "date": "2026-11-09",
+  "version": "1.2.38",
+  "date": "2026-11-11",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[fix] v1.2.37 — ADB \"sm forget all\" 안전장치 추가, Retry(단일 기기) 결과 shard 오집계 수정"
+  "release_notes": "[feat] v1.2.38 — 자동 업데이트 HTTP 504 재시도 로직, ADB Controller 리모컨 모드/scrcpy 해상도 선택/창 제목/디바이스 정렬 기능 추가"
 }
