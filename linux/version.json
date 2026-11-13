@@ -1,6 +1,6 @@
 {
-  "version": "1.2.38",
-  "date": "2026-11-11",
+  "version": "1.2.39",
+  "date": "2026-11-13",
   "download_url": "https://github.com/greenhelix/GAH-Release-Repo/raw/main/linux/gah-linux-x64.tar.gz",
-  "release_notes": "[feat] v1.2.38 — 자동 업데이트 HTTP 504 재시도 로직, ADB Controller 리모컨 모드/scrcpy 해상도 선택/창 제목/디바이스 정렬 기능 추가"
+  "release_notes": "[feat] v1.2.39 — ADB Push 진행률 미표시 근본 수정(pty/추정치) + 디바이스 정렬(끝자리)/전체선택/기기 식별(화면 확대+Status 화면) + LIVE 탭 레이아웃 흔들림 수정"
 }

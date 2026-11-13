@@ -2,7 +2,7 @@
 
 Google Auth Helper 설치 파일 배포 전용 저장소.
 
-[![Version Linux](https://img.shields.io/badge/Linux-v1.2.38-blue)](linux/version.json)
+[![Version Linux](https://img.shields.io/badge/Linux-v1.2.39-blue)](linux/version.json)
 [![Version Windows](https://img.shields.io/badge/Windows-v0.1.2-blue)](windows/version.json)
 [![Version macOS](https://img.shields.io/badge/macOS-v1.0.23-blue)](macos/version.json)
 
@@ -51,7 +51,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 플랫폼 | 버전 | 날짜 |
 |--------|------|------|
-| Linux | **v1.2.38** | 2026-11-11 |
+| Linux | **v1.2.39** | 2026-11-13 |
 | Windows | v0.1.2 | 2026-04-28 |
 | macOS | v1.0.23 | 2026-05-04 |
 
@@ -63,6 +63,7 @@ sudo dpkg -i gah-linux-amd64.deb
 
 | 버전 | 날짜 | 플랫폼 | 주요 변경 |
 |------|------|--------|-----------|
+| **v1.2.39** | 2026-11-13 | Linux | ADB Push 진행률(%) 미표시 근본 원인 해결(pty로 tty 인식시켜 실시간 진행률 복원, 과거 평균 속도 기반 추정치 보강) + 무응답 판정 기준을 파일 크기/추정치 기반으로 개선 + 디바이스 끝자리 숫자 기준 정렬/전체선택·해제 + 기기 식별 기능(화면 밀도 확대 + TV Status 화면 직접 진입) + LIVE 탭 상단 요약 레이아웃 흔들림 수정 |
 | **v1.2.38** | 2026-11-11 | Linux | 자동 업데이트 HTTP 504 재시도 로직 추가(502/503/504 최대 3회 지수 백오프) + ADB Controller 리모컨 모드(GAH 창 축소 + scrcpy 자동 배치) + scrcpy 해상도 선택/창 제목 표시 + 디바이스 목록 정렬 기능 추가 |
 | **v1.2.37** | 2026-11-09 | Linux | ADB "sm forget all" 안전장치 추가(연결된 외장 디스크 있으면 건너뜀) + Retry(단일 기기) 결과가 shard 여러 대로 잘못 집계되던 문제 수정(호스트 로그 기준 실제 디바이스 수로 보정) |
 | **v1.2.36** | 2026-11-06 | Linux | 종합검색 suite 전체 조회로 인한 커넥션 끊김 수정(붙여넣은 케이스로 조회 범위 제한) + Lark XtsToolVersions 동기화 날짜 필드 오류 수정(ms timestamp로 통일) + ADB Push 무응답 오탐 방지 + 진행률 미표시(출력 버퍼링) 수정 |
